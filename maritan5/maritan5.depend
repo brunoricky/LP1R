@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1534468236 source:c:\users\bruno\desktop\c\maritan5\main.cpp
+	<iostream>
+	"Relogio.h"
+
+1534467433 source:c:\users\bruno\desktop\c\maritan5\src\relogio.cpp
+	"Relogio.h"
+
+1534467385 c:\users\bruno\desktop\c\maritan5\include\relogio.h
+
